@@ -1,0 +1,93 @@
+body 
+{
+    background-color: #F7FF3C;
+    color: #dfddab;
+
+
+}
+
+.Histoire
+{
+    background-color: aqua;
+    color: rgb(234, 255, 255);
+    position: fixed;
+    width:4000px; 
+    height:100px;
+    top: 475px;
+    margin: -10px;
+}
+
+.Note
+{
+    width:40px; 
+    height:1000px; 
+    color :rgb(185, 224, 77);
+    background-color: rgb(217, 255, 0);
+    position: fixed;
+    left: 1500px;
+    top:-8px;
+    margin: -10px;
+}
+
+.Pote
+{
+    width:400px; 
+    height:400px;  
+    color: rgb(147, 147, 252);
+    background-color: rgb(17, 0, 255);
+    position: fixed;
+    margin: -10px;
+}
+
+.Reponse
+{
+    width:100px; 
+    height:40px;  
+    background-color: rgb(235, 255, 198);
+    top:600px;
+    position: fixed;
+}
+
+.pote button
+{
+    background-color: rgb(109, 32, 32);
+    color: black;
+    border: 8px solid #4CAF50; /* Green */
+}
+
+.merci button
+{
+    background-color: rgb(241, 203, 203);
+    color: rgb(255, 255, 255);
+    border: 8px solid #dbf5dc; /* Green */ 
+    width:10px; 
+    height:10px;  
+}
+
+.final button
+{
+    background-color: rgb(222, 245, 119);
+    color: rgb(207, 170, 49);
+    width:5px; 
+    height:15px; 
+}
+.sis img 
+{
+    position: fixed;
+    width:40px; 
+    height:40px; 
+    padding: 20px;
+    top:850px;
+
+}
+.dtre img
+{
+    position: fixed;
+    width:100px; 
+    height:40px; 
+    top:850px;
+}
+
+#Div2 {
+    display: none;
+  }
